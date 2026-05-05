@@ -40,9 +40,8 @@ I bridge the gap between **hardware** and **performance**. I specialize in breat
 ---
 
 ## 🧪 Current Experiments
-- 💻 **Project Overclock:** Forcing a 10-year-old office laptop to run modern titles at playable frames.
-- 🛠️ **Custom Automation:** Building a Python-based diagnostic tool for quick hardware health checks.
-- 🌐 **Clean UI:** Designing a custom Linux dashboard for monitoring system thermals in real-time.
+- 💻 **AVAOS Project:** Performance playbook for Windows 11 Devices.
+- 🛠️ **place.qzz.io:** currenctly thinking abt what to do with this.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
