@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello.%20I'm%20Ziipzy&fontSize=80&animation=fadeIn&fontAlignY=35" />
 
-  ### 🎮 Content Creator • 💻 Tech Enthusiast • 🚀 Builder • 🧪 Experimenter
+  ### 🎮 Content Creator • 🔧 Hardware Hacker • 🚀 Optimizer • 🧪 Experimenter
 
   [![YouTube](https://img.shields.io/badge/YouTube-ZiipzyGaming-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ziipzygaming)
   [![TikTok](https://img.shields.io/badge/TikTok-@ziipzy-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ziipzy)
@@ -13,49 +13,36 @@
 
 ## ⚡ Quick Summary
 
-I bridge the gap between **code** and **content**. I specialize in turning complex ideas into clean UI/UX and automated systems.
+I bridge the gap between **hardware** and **performance**. I specialize in breathing new life into old tech and pushing low-end systems far beyond their intended limits.
 
-- 🛠️ **Building:** Experimental tech & web concepts.
-- 🎨 **Designing:** Modern, user-centric interfaces.
-- 🤖 **Automating:** Leveraging AI to streamline workflows.
-- 🎮 **Creating:** Gaming and short-form digital media.
+- 🛠️ **Hardware:** Tech repair, component swaps, and restoration.
+- 🏎️ **Optimization:** Pushing low-end laptops to their absolute max.
+- 🐧 **Systems:** Debloating OS environments and Linux rice/optimization.
+- 🎮 **Content:** Documenting the journey of "budget-to-beast" builds.
 
 ---
 
-## 🚀 Skills & Toolbox
+## 🛠️ The Workbench (Skills)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,git,linux,vscode,figma,discord,ae,pr,obs" />
+  <img src="https://skillicons.dev/icons?i=linux,arduino,apple,windows,github,ae,pr,c,cpp,blender" />
 </div>
 
 <br />
 
-| Area | Technologies |
+| Specialization | What I Do |
 | :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
-| **Backend/Scripting** | Python, Automation Scripts |
-| **Systems/Tools** | Linux, Git, VS Code, AI APIs |
-| **Creative** | UI/UX Design, Video Production, OBS |
-
----
-
-## 📊 Activity & Impact
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ziipzygaming&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ziipzygaming&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziipzygaming&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+| **Tech Repair** | Microsoldering, thermal management, and component diagnostic. |
+| **Optimization** | Windows debloating, custom kernels, and overclocking low-end chips. |
+| **Revival** | Turning "e-waste" into functional servers or gaming machines. |
+| **Creative** | High-energy editing showcasing the "before & after" of tech projects. |
 
 ---
 
 ## 🧪 Current Experiments
-- 🛠️ Developing a custom automation suite for content workflows.
-- 🌐 Experimenting with glassmorphism in web dashboard designs.
-- 🧠 Training local AI models for gaming data analysis.
+- 💻 **Project Overclock:** Forcing a 10-year-old office laptop to run modern titles at playable frames.
+- 🛠️ **Custom Automation:** Building a Python-based diagnostic tool for quick hardware health checks.
+- 🌐 **Clean UI:** Designing a custom Linux dashboard for monitoring system thermals in real-time.
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
