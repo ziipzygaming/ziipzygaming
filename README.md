@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello.%20I'm%20Ziipzy&fontSize=80&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello.%20I'm%20ziipzy&fontSize=80&animation=fadeIn&fontAlignY=35" />
 
   ### 🎮 Content Creator • 🔧 Hardware Hacker • 🚀 Optimizer • 🧪 Experimenter
 
