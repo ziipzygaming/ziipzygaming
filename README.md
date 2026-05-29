@@ -50,6 +50,7 @@ I bridge the gap between **hardware** and **performance**. I specialize in breat
 ## 🧪 Current Experiments
 - 💻 **AVAOS Project:** Performance playbook for Windows 11 Devices.
 - 🛠️ **place.qzz.io:** currenctly thinking abt what to do with this.
+- 🏴‍☠️ **theziipzyfiles.github.io** A bunch of links for something 👀
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
